@@ -1,5 +1,5 @@
 {
-  "name": "teste-npm",
+  "name": "marciow-teste-npm",
   "description": "Teste de repositório NPM",
   "readmeFilename": "README.md" ,
   "main": "index.ts",
