@@ -2,14 +2,14 @@
   "name": "marciow-teste-npm",
   "description": "Teste de repositório NPM",
   "readmeFilename": "README.md" ,
-  "main": "index.ts",
+  "main": "./component/index.ts",
   "keywords": [
     "NPM"
   ],
   "tags": [
     "npm"
   ],
-  "version": "0.0.6",
+  "version": "0.0.7",
   "author": {
     "name": "Marcio Wolff",
     "email": "marcio.wolff@hotmail.com"
