@@ -1,0 +1,25 @@
+{
+  "name": "marciow-teste-npm",
+  "description": "Teste de repositório NPM",
+  "readmeFilename": "README.md" ,
+  "main": "./component/index.ts",
+  "keywords": [
+    "NPM"
+  ],
+  "tags": [
+    "npm"
+  ],
+  "version": "0.0.3",
+  "author": {
+    "name": "Marcio Wolff",
+    "email": "marcio.wolff@hotmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marciowolff/teste-npm.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.8.0"
+  }
+}
